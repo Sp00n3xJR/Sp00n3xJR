@@ -1,6 +1,6 @@
 <h2> Welcome to my github profile! </H2>
 
-Hi! I'm an aspiring software developer from Finland, currently studying for my bachelor's degree in Information and Communications Technology. 
+Hi! I'm an aspiring software developer from Finland, currently studying Information and Communications Technology. 
 
 Languages I have experience with:
 - C#
