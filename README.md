@@ -5,6 +5,8 @@ Hi! I'm an aspiring software developer from Finland, currently studying Informat
 Languages I have experience with:
 - C#
 - Lua
+- Very Slight C++ Knowledge
+- Very Slight Python Knowledge
 
 <hr>
 <br>
