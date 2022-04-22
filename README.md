@@ -18,4 +18,4 @@ Databases with SQL
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp00n3xjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp00n3xjr&layout=compact&hide=shaderlab&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
