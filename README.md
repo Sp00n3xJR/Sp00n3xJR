@@ -8,7 +8,7 @@ Languages I have experience with:
 - Very Slight C++ Knowledge
 - Very Slight Python Knowledge
 
-Web design with HTML, CSS <br>
+Web design with HTML, CSS, SASS <br>
 Databases with SQL
 
 <hr>
